@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>.profile img.rounded-circle { border-radius: 50%; }</style>
+
 I'm a robotics engineer specialising in **marine robotics and autonomous systems**, with a focus on uncrewed surface and underwater vehicles: how to design them, equip them with sensors and make them operate reliably in the field.
 
 I trained in **Robotics & Autonomous Systems at Polytech Nice-Sophia** (Université Côte d'Azur), with a **double-degree year at the University of Genoa** (Italy), after a CPGE (PSI) preparatory programme. My coursework and projects covered ROS 2, robot modelling and control, RGB-D perception, sensor fusion and real-time embedded systems.
