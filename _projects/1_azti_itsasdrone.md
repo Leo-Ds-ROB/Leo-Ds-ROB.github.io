@@ -2,7 +2,7 @@
 layout: page
 title: Itsasdrone USV – sensing upgrade
 description: AZTI, 2026 · GNSS diagnosis, dual-camera integration and 3D-printed camera mounts on a BlueBoat-based USV
-img: assets/img/azti-itsasdrone.jpg
+img: assets/img/azti-images/azti-itsasdrone.jpg
 importance: 1
 category: research internships
 related_publications: false
@@ -16,10 +16,10 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/azti-itsasdrone.jpg" title="Itsasdrone at AZTI" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/azti-images/azti-itsasdrone.jpg" title="Itsasdrone at AZTI" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/azti-overview.jpg" title="Upgraded Itsasdrone with two exploreHD cameras" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/azti-images/azti-overview.jpg" title="Upgraded Itsasdrone with two exploreHD cameras" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,10 +37,10 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-gps-before.jpg" title="GNSS track before recalibration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-gps-before.jpg" title="GNSS track before recalibration" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-gps-after.jpg" title="GNSS track after recalibration" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-gps-after.jpg" title="GNSS track after recalibration" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -49,7 +49,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-gnss-vs-cameras.png" title="GNSS satellites vs. number of cameras" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-gnss-vs-cameras.png" title="GNSS satellites vs. number of cameras" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -58,13 +58,13 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-cad-model.jpg" title="Simplified CAD model of Itsasdrone" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-cad-model.jpg" title="Simplified CAD model of Itsasdrone" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-cad-underwater.jpg" title="Underwater camera mount (CAD)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-cad-underwater.jpg" title="Underwater camera mount (CAD)" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-cad-pole.jpg" title="Raised pole camera mount (CAD)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-cad-pole.jpg" title="Raised pole camera mount (CAD)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -73,13 +73,13 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-mount-underwater.jpg" title="Underwater camera mount installed" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-mount-underwater.jpg" title="Underwater camera mount installed" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-mount-upper.jpg" title="Upper camera mount installed" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-mount-upper.jpg" title="Upper camera mount installed" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-penetrators.jpg" title="WetLink penetrators on the enclosure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-penetrators.jpg" title="WetLink penetrators on the enclosure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -88,7 +88,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/azti-dual-camera-test.jpg" title="Both camera streams and GNSS in Cockpit" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/azti-images/azti-dual-camera-test.jpg" title="Both camera streams and GNSS in Cockpit" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
