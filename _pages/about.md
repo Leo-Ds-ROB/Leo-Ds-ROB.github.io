@@ -34,7 +34,7 @@ I trained in **Robotics & Autonomous Systems at Polytech Nice-Sophia** (Universi
 My field experience comes from two research internships:
 
 - **AZTI** – Basque Country, Spain (2026). End-of-studies internship upgrading the sensing systems of Itsasdrone, a BlueBoat-based USV used for fisheries and oceanographic surveys: GNSS diagnosis, dual-camera integration and 3D-printed camera mounts ([see project](/projects/1_azti_itsasdrone/)).
-- **Australian Centre for Field Robotics (ACFR), University of Sydney** – Australia (2025). Research internship designing an automated deployment system for a USBL acoustic positioning probe on a BlueBoat uncrewed surface vehicle, from CAD and actuation to integration and field trials.
+- **Australian Centre for Field Robotics (ACFR), University of Sydney** – Australia (2025). Research internship designing an automated deployment system for a USBL acoustic positioning probe on a BlueBoat uncrewed surface vehicle, from CAD and actuation to integration and water-tank trials ([see project](/projects/2_acfr_usbl_deployment/)).
 
 Alongside my studies, I contributed for several years to **NEMO**, a student ROV designed for coral reef monitoring, working on its mechanical architecture, propulsion, electronics integration and waterproofing.
 
