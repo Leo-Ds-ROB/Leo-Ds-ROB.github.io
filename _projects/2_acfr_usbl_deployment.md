@@ -2,7 +2,7 @@
 layout: page
 title: Automated USBL deployment for a BlueBoat USV
 description: ACFR, University of Sydney, 2025 · Dual lead-screw mechanism to lower and retract a USBL transducer autonomously
-img: assets/img/acfr-images/acfr-final-assembly.jpg
+img: assets/img/acfr-final-assembly.jpg
 importance: 2
 category: research internships
 related_publications: false
@@ -16,10 +16,10 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/acfr-images/acfr-final-assembly.jpg" title="Final prototype on the BlueBoat" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/acfr-final-assembly.jpg" title="Final prototype on the BlueBoat" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/acfr-images/acfr-lab-tank.jpg" title="Prototype in the lab tank" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/acfr-lab-tank.jpg" title="Prototype in the lab tank" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -37,13 +37,13 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-previous-design.jpg" title="Previous manual USBL mount" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-previous-design.jpg" title="Previous manual USBL mount" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-cad-old-frame.jpg" title="Original frame (CAD)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-cad-old-frame.jpg" title="Original frame (CAD)" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-cad-reinforced-frame.jpg" title="Reinforced frame (CAD)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-cad-reinforced-frame.jpg" title="Reinforced frame (CAD)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -52,13 +52,13 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-cad-lead-screw.jpg" title="Lead-screw drive (CAD)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-cad-lead-screw.jpg" title="Lead-screw drive (CAD)" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-cad-motor-mounts.jpg" title="Motor mounts on the frame (CAD)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-cad-motor-mounts.jpg" title="Motor mounts on the frame (CAD)" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-cad-connector.jpg" title="Connector to the USBL platform (CAD)" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-cad-connector.jpg" title="Connector to the USBL platform (CAD)" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -67,13 +67,13 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-motor-mounted.jpg" title="Stepper motor on its bracket" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-motor-mounted.jpg" title="Stepper motor on its bracket" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-bearing.jpg" title="Flange bearing on the payload bracket" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-bearing.jpg" title="Flange bearing on the payload bracket" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-connector.jpg" title="Connector fitted to the USBL platform" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-connector.jpg" title="Connector fitted to the USBL platform" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -82,7 +82,7 @@ related_publications: false
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/acfr-images/acfr-fully-deployed.jpg" title="USBL fully deployed" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/acfr-fully-deployed.jpg" title="USBL fully deployed" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
